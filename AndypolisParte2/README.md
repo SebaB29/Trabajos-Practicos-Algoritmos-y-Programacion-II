@@ -8,7 +8,7 @@ Sebastian Brizuela --> [Github](https://github.com/SebaB29)
 
 
 ## Compilacion
-Una vez descomprimido el zip, posicionado en el directorio TP2, se debera correr el comando `make main` o `make`. Este comando compilara el programa con los flags correspondientes, para ejecutarlo ingresar `./Andypolis`.
+Una vez descomprimido el zip, posicionado en el directorio AndypolisParte2, se debera correr el comando `make main` o `make`. Este comando compilara el programa con los flags correspondientes, para ejecutarlo ingresar `./Andypolis`.
 
 En caso de querer correrlo con valgrind, podra hacerlo una vez compilado el progama como se menciono previamente y corriendo el comando `make valgrind`.
 

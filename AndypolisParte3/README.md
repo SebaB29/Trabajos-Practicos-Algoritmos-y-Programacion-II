@@ -6,9 +6,9 @@ Brayan Saiago --> [Github](https://github.com/brayans22)
 
 Ezequiel Lasalle --> [Github](https://github.com/EzequielLassalle)
 
-Franco Losardo
+Franco Losardo  --> [Github](https://github.com/flosardo)
 
-Sebastian Brizuela --> [Github](https://github.com/SebaB29)
+Sebastian Brizuela
             
 
 ## Compilacion

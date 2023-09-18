@@ -2,9 +2,9 @@
 
 **Integrantes**
 
-Franco Losardo
+Franco Losardo  --> [Github](https://github.com/flosardo)
 
-Sebastian Brizuela --> [Github](https://github.com/SebaB29)
+Sebastian Brizuela
 
 
 ## Compilacion
